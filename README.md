@@ -12,8 +12,8 @@ APIRestful en Express.js. Código del laboratorio 10 y 11.
 ### :camera: Screenshots
 Estructura de los json
 <div align="center"> 
-  <img src="./Captura.png" alt="screenshot" />
-  <img src="./ejemplo.png" alt="screenshot" />
+  <img src="Imagenes\Captura.PNG" alt="screenshot" />
+  <img src="Imagenes\ejemplo.PNG" alt="screenshot" />
 </div>
 
 ## :star3: Despliegue
