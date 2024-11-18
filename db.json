@@ -1,0 +1,71 @@
+{
+  "cortes": [
+    {
+      "id": "170208",
+      "sector": "Llano Grande",
+      "horas_corte": "12",
+      "hora_corte_m": "24-7",
+      "hora_corte_v": "13-18",
+      "dia_inicio": "15",
+      "dia_fin": "17",
+      "mes": "noviembre",
+      "anio": "2024"
+    },
+    {
+      "id": "170209",
+      "sector": "Llano Chico",
+      "horas_corte": "12",
+      "hora_corte_m": "24-7",
+      "hora_corte_v": "13-18",
+      "dia_inicio": "13",
+      "dia_fin": "17",
+      "mes": "noviembre",
+      "anio": "2024"
+    },
+    {
+      "id": "170204",
+      "sector": "Carapungo",
+      "horas_corte": "12",
+      "hora_corte_m": "24-7",
+      "hora_corte_v": "13-18",
+      "dia_inicio": "15",
+      "dia_fin": "17",
+      "mes": "noviembre",
+      "anio": "2024"
+    },
+    {
+      "id": "170201",
+      "sector": "Marianitas",
+      "horas_corte": "12",
+      "hora_corte_m": "24-7",
+      "hora_corte_v": "13-18",
+      "dia_inicio": "13",
+      "dia_fin": "17",
+      "mes": "noviembre",
+      "anio": "2024"
+    },
+    {
+      "id": "170202",
+      "sector": "Zabala",
+      "horas_corte": "12",
+      "hora_corte_m": "7-13",
+      "hora_corte_v": "18-24",
+      "dia_inicio": "10",
+      "dia_fin": "17",
+      "mes": "noviembre",
+      "anio": "2024"
+    },
+    {
+      "id": "170302",
+      "sector": "Carcelen",
+      "horas_corte": "12",
+      "hora_corte_m": "10-16",
+      "hora_corte_v": "21-3",
+      "dia_inicio": "13",
+      "dia_fin": "17",
+      "mes": "noviembre",
+      "anio": "2024"
+    }
+  ],
+  "users": {}
+}
