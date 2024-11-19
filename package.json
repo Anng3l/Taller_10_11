@@ -10,7 +10,8 @@
 
     
     "dev": "node --watch ./src/index.js",
-    "db": "json-server --watch ./db.json --port=4000"
+    "db": "json-server --watch ./db.json --port=4000",
+    "start": "node ./src/index.js"
   },
   "keywords": [],
   "author": "",
